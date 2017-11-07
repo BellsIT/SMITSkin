@@ -1,4 +1,7 @@
-# Smartadmin
+# Smartadmin.2ality
+
+Check out the project and run `npm start` command in project root direcory. 
+As I have checked in the new whole extracted project. 
 
 [live](https://sang2-shockwave.rhcloud.com) demo
 
