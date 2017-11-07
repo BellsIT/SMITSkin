@@ -49,6 +49,5 @@ node_modules
 gulp.1
 build
 .tmp
+git
 
-/src
-/node_modules
